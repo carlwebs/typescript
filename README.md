@@ -1,0 +1,2 @@
+# typescript
+typescript总结
