@@ -1,0 +1,4 @@
+1.ts转化为js文件
+npm install -g typescript
+tsc helloworld.ts
+就会在相同目录下面生成helloworld.js
